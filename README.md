@@ -1,7 +1,11 @@
 
 Epic list of resources for [Portal 2: Community Edition](https://store.steampowered.com/app/440000/Portal_2_Community_Edition/)
 
+If you want to add stuff feel free to send a pull request!
+
+
 ### Table of Contents
+- [Campaigns](#campaigns)
 - Asset Replacements
   - [Portal Gun](#portal-gun)
   - [Player Model](#player-model)
@@ -19,6 +23,29 @@ Epic list of resources for [Portal 2: Community Edition](https://store.steampowe
 - [Instances](#instances)
 - [Tools & Addons](#tools---addons)
 - [Learning Resources](#learning-sources)
+
+Campaigns
+---
+### Vanilla
+- [Half-Life 2](https://steamcommunity.com/sharedfiles/filedetails/?id=3702489814)
+- [Portal 1](https://steamcommunity.com/sharedfiles/filedetails/?id=3702489470)
+- [The Stanley Parable](https://steamcommunity.com/sharedfiles/filedetails/?id=3711331105)
+### Enhanced | Remasters
+- [Portal 1: Enhanced - First Slice](https://steamcommunity.com/sharedfiles/filedetails/?id=3718780687) - Portal 1 with enhanced stuff!
+- [Reloaded: Remake - Time Portal Introduction](https://steamcommunity.com/sharedfiles/filedetails/?id=3531674657)
+
+### Original Campaigns
+- [Portal: System Failure - Alpha Preview](https://steamcommunity.com/sharedfiles/filedetails/?id=3682076186)
+- [Uncreative](https://steamcommunity.com/sharedfiles/filedetails/?id=3447776243)
+- [Magnetic](https://steamcommunity.com/sharedfiles/filedetails/?id=3712589414)
+- [Portalize(r) Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=3690422609)
+
+### Joke
+- [Portal 2: British Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=3699819528)
+- [Portal 2: Community Edition: Google Translated](https://steamcommunity.com/sharedfiles/filedetails/?id=3686430724)
+- [Portal 1: Google Translated Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=3711753001)
+- [Half-Life 2: Google Translated Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=3709635222)
+
 
 ## Asset Replacements
 
@@ -123,7 +150,7 @@ Stuff that doesn't change the base textures/models.
 - [HLA Cats](https://steamcommunity.com/sharedfiles/filedetails/?id=3590356142)
 - [Lego Dimensions - Portal 2 Level Pack - GLaDOS Lines](https://github.com/StrataSource/Portal-2-Community-Edition/discussions/1818)
 - [Defense Grid: The Awakening - All GLaDOS Lines](https://github.com/StrataSource/Portal-2-Community-Edition/discussions/2006)
-
+- [PBR'ed Lolo2345 Extra Panel Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=3637856032)
 
 
 
