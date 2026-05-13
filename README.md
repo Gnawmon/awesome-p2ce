@@ -70,18 +70,20 @@ Portal Gun
 Player Model 
 ---
 - [Fox Chell](https://steamcommunity.com/sharedfiles/filedetails/?id=3709454362)
-- [Atlas Over Chell](https://steamcommunity.com/sharedfiles/filedetails/?id=3709713010)
-- [P-Body Over Chell](https://steamcommunity.com/sharedfiles/filedetails/?id=3709744215)
+- [Atlas](https://steamcommunity.com/sharedfiles/filedetails/?id=3709713010)
+- [P-Body](https://steamcommunity.com/sharedfiles/filedetails/?id=3709744215)
 - [Dirtier Jumpsuit](https://steamcommunity.com/sharedfiles/filedetails/?id=3708405351)
 - [Portal 1 Chell](https://steamcommunity.com/sharedfiles/filedetails/?id=3616875192)
 - [Mau Makan Apa? | Gix Busok Playermodel](https://steamcommunity.com/sharedfiles/filedetails/?id=3712939048)
-- [Akita Neru over Chell](https://steamcommunity.com/sharedfiles/filedetails/?id=3710701065)
-- [CJ (Carl Johnson) Over Chell](https://steamcommunity.com/sharedfiles/filedetails/?id=3719315694)
-- [Heavy as Chell](https://steamcommunity.com/sharedfiles/filedetails/?id=3704892217)
-- [Faith Connors over Chell](https://steamcommunity.com/sharedfiles/filedetails/?id=3722711727)
-- [Ethan Player Model](https://steamcommunity.com/sharedfiles/filedetails/?id=3715976610)
-- [Bendy (playermodel)](https://steamcommunity.com/sharedfiles/filedetails/?id=3708838309)
-- [Larry the Lobster (Spongebob Squarepants) for Chell (Portal 2)](https://steamcommunity.com/sharedfiles/filedetails/?id=3714997095)
+- [Akita Neru](https://steamcommunity.com/sharedfiles/filedetails/?id=3710701065)
+- [CJ (Carl Johnson)](https://steamcommunity.com/sharedfiles/filedetails/?id=3719315694)
+- [Heavy](https://steamcommunity.com/sharedfiles/filedetails/?id=3704892217)
+- [Faith Connors](https://steamcommunity.com/sharedfiles/filedetails/?id=3722711727)
+- [Ethan](https://steamcommunity.com/sharedfiles/filedetails/?id=3715976610)
+- [Bendy](https://steamcommunity.com/sharedfiles/filedetails/?id=3708838309)
+- [Larry the Lobster (Spongebob Squarepants)](https://steamcommunity.com/sharedfiles/filedetails/?id=3714997095)
+- [[Girls' Frontline 2] Loreley](https://steamcommunity.com/sharedfiles/filedetails/?id=3725289262)
+- [Humanoid GLaDOS](https://steamcommunity.com/sharedfiles/filedetails/?id=3725365716)
 
 Error Model 
 ---
@@ -145,6 +147,7 @@ Stuff that doesn't change the base textures/models.
 ### Other
 - [Real World Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=3711768845)
 - [BPbr](https://steamcommunity.com/sharedfiles/filedetails/?id=3710672409)
+- [BlueMats](https://steamcommunity.com/sharedfiles/filedetails/?id=3725172474)
 - [HugoBDesigner's Textures Repositorium](https://github.com/StrataSource/Portal-2-Community-Edition/discussions/1559)
 - [Polyhaven Textures](https://github.com/StrataSource/Portal-2-Community-Edition/discussions/1756)
 - [HLA Cats](https://steamcommunity.com/sharedfiles/filedetails/?id=3590356142)
@@ -193,7 +196,8 @@ Tools - Addons
 - [P2-KeyCam](https://github.com/LaVashikk/P2-KeyCam) - A camera control tool
 - [PBR-2-Source](https://github.com/koerismo/PBR-2-Source) - Convenient tool to create PBR materials
 - [p2cecg](https://github.com/iamsirenstorm/p2cecg) - Import vanilla Portal 2 workshop maps to P2CE
-- [Portal Mapping and Modding YouTube Channel](https://www.youtube.com/@PortalMappingandModding/featured)
+- [Debug Rendering [AS]](https://github.com/StrataSource/Portal-2-Community-Edition/discussions/2333) - Draw debug info with Angel Script 
+
 
 
 Learning Sources
@@ -202,3 +206,4 @@ Learning Sources
 - [p0rtalmaster's Hammer Guide Series](https://steamcommunity.com/sharedfiles/filedetails/?id=668125032)
 - [Valve Developer Wiki](https://developer.valvesoftware.com/.within.website/?redir=https://developer.valvesoftware.com/wiki/Main_Page)
 - [Strata Source Wiki](https://wiki.stratasource.org/)
+- [Portal Mapping and Modding YouTube Channel](https://www.youtube.com/@PortalMappingandModding/featured)
