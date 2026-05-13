@@ -154,15 +154,12 @@ Stuff that doesn't change the base textures/models.
 
 
 
-Indiviual Assets
+Individual Assets
 ---
 
 ### Signs
 - [Custom Posters + Editable Files](https://github.com/StrataSource/Portal-2-Community-Edition/discussions/1740)
 - [The Lab: Posters](https://steamcommunity.com/sharedfiles/filedetails/?id=3692905597)
-
-### Elevators
-- [Departure Elevator PBR](https://steamcommunity.com/sharedfiles/filedetails/?id=3701438709)
 
 ### Walkways
 - [P2 Beta-style Catwalks](https://steamcommunity.com/sharedfiles/filedetails/?id=3405560833)
@@ -174,6 +171,7 @@ Indiviual Assets
 - [info_player_start but chell](https://steamcommunity.com/sharedfiles/filedetails/?id=3660702660)
 - [info_pony_start](https://steamcommunity.com/sharedfiles/filedetails/?id=3405151984)
 
+### Other
 - [Cave Johnson Obsolete Icon](https://steamcommunity.com/sharedfiles/filedetails/?id=3585895823)
 - [Colorable Lobby Curtains](https://steamcommunity.com/sharedfiles/filedetails/?id=3386570477)
 
@@ -181,8 +179,11 @@ Indiviual Assets
 
 Instances
 ---
+### Collections
 - [betterp2instances - An Instance Pack for Portal 2 Mappers](https://github.com/StrataSource/Portal-2-Community-Edition/discussions/1849)
 - [P2CE-Instances](https://github.com/StrataSource/P2CE-Instances)
+- [DWP P2:CE Instances](https://steamcommunity.com/workshop/filedetails/?id=3701089888) - Elevators, HEP elements, video handlers
+
 
 Tools - Addons
 ---
@@ -191,6 +192,9 @@ Tools - Addons
 - [PCapture-LIB](https://github.com/LaVashikk/PCapture-LIB) - A VScript Library
 - [P2-KeyCam](https://github.com/LaVashikk/P2-KeyCam) - A camera control tool
 - [PBR-2-Source](https://github.com/koerismo/PBR-2-Source) - Convenient tool to create PBR materials
+- [p2cecg](https://github.com/iamsirenstorm/p2cecg) - Import vanilla Portal 2 workshop maps to P2CE
+- [Portal Mapping and Modding YouTube Channel](https://www.youtube.com/@PortalMappingandModding/featured)
+
 
 Learning Sources
 ---
